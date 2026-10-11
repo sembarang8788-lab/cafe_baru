@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/cafe_cakyusop/**", "destination": "/index.html" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/cafe_cakyusop/", "type": 302 }
+  ]
+}

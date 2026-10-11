@@ -1,0 +1,9 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  10/11/2026 11:05:07 AM ::1 GET /
+ HTTP  10/11/2026 11:05:07 AM ::1 Returned 200 in 160 ms
+ HTTP  10/11/2026 11:05:07 AM ::1 GET /cafe_cakyusop/assets/index-BqHHOBEt.js
+ HTTP  10/11/2026 11:05:07 AM ::1 GET /cafe_cakyusop/assets/index-BgiuXLy6.css
+ HTTP  10/11/2026 11:05:07 AM ::1 Returned 200 in 137 ms
+ HTTP  10/11/2026 11:05:07 AM ::1 Returned 200 in 137 ms
+ HTTP  10/11/2026 11:05:08 AM ::1 GET /favicon.ico
+ HTTP  10/11/2026 11:05:08 AM ::1 Returned 200 in 4 ms
